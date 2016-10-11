@@ -8,9 +8,9 @@ Code accompanying `full tutorial <https://wsvincent.com/django-about-page-three-
 Installation
 ============
 
-* git clone git@github.com:wsvincent/django-about-page-three-ways.git
-
 .. code-block:: bash
+
+    $ git clone git@github.com:wsvincent/django-about-page-three-ways.git
 
     $ pip install django==1.10.2
 
